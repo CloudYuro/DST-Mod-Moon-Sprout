@@ -1,2 +1,2 @@
 # DST-Mod-Moon-Sprout
-Private repository for version management.
+This is a repository for personal version management, used to back up the DST mod I'm developing: Moon Sprout.
